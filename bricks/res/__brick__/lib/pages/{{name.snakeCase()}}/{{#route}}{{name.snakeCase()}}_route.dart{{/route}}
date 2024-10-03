@@ -1,0 +1,8 @@
+import 'package:fe_food/xcore.dart';
+class {{name.pascalCase()}}Route {
+  // Add your routes here
+
+  static final routes = [
+    // Add your routes here
+  ];
+}
